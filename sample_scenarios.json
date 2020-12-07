@@ -1,0 +1,42 @@
+[
+    {
+        "scenario_name": "Scenario-1",
+        "try_count": 100,
+        "method": "POST",
+        "query_params": {
+            "skip": 0,
+            "limit": 1
+        },
+        "body": "{}"
+    },
+    {
+        "scenario_name": "Scenario-2",
+        "try_count": 100,
+        "method": "POST",
+        "query_params": {
+            "skip": 0,
+            "limit": 10
+        },
+        "body": "{}"
+    },
+    {
+        "scenario_name": "Scenario-3",
+        "try_count": 100,
+        "method": "POST",
+        "query_params": {
+            "skip": 0,
+            "limit": 100
+        },
+        "body": "{}"
+    },
+    {
+        "scenario_name": "Scenario-4",
+        "try_count": 100,
+        "method": "POST",
+        "query_params": {
+            "skip": 0,
+            "limit": 1000
+        },
+        "body": "{}"
+    }
+]
